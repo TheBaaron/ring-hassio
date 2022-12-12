@@ -1,5 +1,5 @@
 # ring-hassio
-Created by: @dutchdatadude
+Created by: [@dutchdatadude](https://github.com/jeroenterheerdt)
 ## Archived
 This repo has been archived - please consider forking to continue development.
 
