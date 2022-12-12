@@ -1,5 +1,5 @@
 # ring-hassio
-[![Support the author on Patreon][patreon-shield]][patreon]
+Created by: @dutchdatadude
 ## Archived
 This repo has been archived - please consider forking to continue development.
 
